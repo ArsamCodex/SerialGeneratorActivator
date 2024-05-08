@@ -37,7 +37,7 @@
             // 
             button1.Location = new Point(59, 31);
             button1.Name = "button1";
-            button1.Size = new Size(394, 23);
+            button1.Size = new Size(426, 23);
             button1.TabIndex = 0;
             button1.Text = "Generate";
             button1.UseVisualStyleBackColor = true;
@@ -46,7 +46,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(27, 86);
+            label1.Location = new Point(43, 84);
             label1.Name = "label1";
             label1.Size = new Size(458, 15);
             label1.TabIndex = 1;
